@@ -1,8 +1,4 @@
-mzhenyana@163.com
-mzhenyana0927
-统招全日制民办学历
 
-民信网 --里的学校是个人办的
 
 vue（） -- element ui --es6， typescript  -- git ，github （）-- .net core  net5 --ef core --core webpai -- mysql ，mongdb--做项目耶  
 
@@ -13,7 +9,3 @@ oracle
 爬虫 xpath
 
 微信小程序  --微服务--wpf--uniapp iso 安卓 --领域驱动始DDD --
-
-建模
-
-每天读一遍400道题
